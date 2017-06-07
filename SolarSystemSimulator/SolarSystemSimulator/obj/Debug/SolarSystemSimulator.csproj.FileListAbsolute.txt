@@ -1,0 +1,9 @@
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.exe.config
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.exe
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.pdb
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.csprojResolveAssemblyReference.cache
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.Form1.resources
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.Properties.Resources.resources
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.csproj.GenerateResource.Cache
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.exe
+D:\Программирование\C#\SolarSystemSimulator\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.pdb
